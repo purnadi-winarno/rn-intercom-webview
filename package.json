@@ -1,0 +1,17 @@
+{
+  "name": "rn-intercom-webview",
+  "version": "1.0.1",
+  "description": "intercom for react native using webview",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "intercom",
+    "react",
+    "native",
+    "intercom"
+  ],
+  "author": "purnadi.winarno",
+  "license": "ISC"
+}
